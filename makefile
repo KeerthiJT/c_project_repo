@@ -6,3 +6,4 @@ fib.o: fib.c
 	gcc -c fib.c
 reverse.o : reverse.c
 	gcc -c reverse.c
+
